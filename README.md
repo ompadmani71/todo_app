@@ -1,16 +1,19 @@
-# firebase_miner
+# TODO APP
 
-A new Flutter project.
+![flutter_logo](https://user-images.githubusercontent.com/108392662/195400888-9538822f-1635-47a4-9a2b-b5c7ddf9b557.png)
+
+A Flutter project.
+
+# Sample video
+
+
+https://user-images.githubusercontent.com/108392662/195404642-0aa109f8-2e31-4d49-b93f-e374ea79c17b.mp4
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- This project I did during my practice time, in that application i have created User friendly UI, and created this application using Firebase Authentication and Firebase Firestore, 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- user can signIn/signUp and after Authentication Then that  write todo and delete todo.
